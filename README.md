@@ -9,7 +9,7 @@ module.exports = {
 	plugins: [
 		new Bump({
 			files: ['package.json'],
-            version: '1.2.5'
+			version: '1.2.5'
 		})
 	]
 }
